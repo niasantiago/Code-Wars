@@ -18,6 +18,9 @@
 # 18 Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. Alternatively, if you rent the car for 3 or more days, you get $20 off your total. Write a code that gives out the total amount for different days(d).
 # 19 Write a function findNeedle() that takes an array full of junk but containing one "needle" After your function finds the needle it should return a message (as a string) that says: "found the needle at position " plus the index it found the needle, so:
 # 20 You will be given an array a and a value x. All you need to do is check whether the provided array contains the value.Array can contain numbers or strings. X can be either. Return true if the array contains the value, false if not.
+# 21 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
+
+
 
 
 
