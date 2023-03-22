@@ -15,7 +15,7 @@
 # 15 In this kata, we will make a function to test whether a period is late.Our function will take three parameters:last - The Date object with the date of the last periodtoday - The Date object with the date of the checkcycleLength - Integer representing the length of the cycle in days.Return true if the number of days passed from last to today is greater than cycleLength. Otherwise, return false.
 # 16 Given two integers a and b, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return a or b. Note: a and b are not ordered!
 # 17 Take an array and remove every second element from the array. Always keep the first element and start removing with the next element.
-
+# 18 Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. Alternatively, if you rent the car for 3 or more days, you get $20 off your total. Write a code that gives out the total amount for different days(d).
 
 
 
