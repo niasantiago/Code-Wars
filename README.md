@@ -14,5 +14,8 @@
 # 14 A hero is on his way to the castle to complete his mission. However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive?
 # 15 In this kata, we will make a function to test whether a period is late.Our function will take three parameters:last - The Date object with the date of the last periodtoday - The Date object with the date of the checkcycleLength - Integer representing the length of the cycle in days.Return true if the number of days passed from last to today is greater than cycleLength. Otherwise, return false.
 # 16 Given two integers a and b, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return a or b. Note: a and b are not ordered!
+# 17 Take an array and remove every second element from the array. Always keep the first element and start removing with the next element.
+
+
 
 
