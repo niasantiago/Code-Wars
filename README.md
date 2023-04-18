@@ -3,3 +3,4 @@
 # 2. Given an array of ones and zeroes, convert the equivalent binary value to an integer.  
 # 3. Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. No floats or non-positive integers will be passed.
 # 4. Now you have to write a function that takes an argument and returns the square of it. 
+# 5. It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters. 
