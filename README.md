@@ -22,6 +22,8 @@
 # 22 Given an array of integers.Return an array, where the first element is the count of positives numbers and the second element is sum of negative numbers. 0 is neither positive nor negative.If the input is an empty array or is null, return an empty array. 
 # 24 Return the number (count) of vowels in the given string.We will consider a, e, i, o, u as vowels for this Kata (but not y).The input string will only consist of lower case letters and/or spaces.
 # 25 In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+# 26 You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.
+
 
 
 
