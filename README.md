@@ -26,7 +26,9 @@
 # 27 Given a string of words, you need to find the highest scoring word.Each letter of a word scores points according to its position in the alphabet: a = 1, b = 2, c = 3 etc.For example, the score of abad is 8 (1 + 2 + 1 + 4).You need to return the highest scoring word as a string.If two words score the same, return the word that appears earliest in the original string.All letters will be lowercase and all inputs will be valid.
 # 28 Complete the solution so that the function will break up camel casing, using a space between words.
 # 29 Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. If the array does not contain any numbers then you should return 0. 
-# 30 Given a 2D ( nested ) list ( array, vector, .. ) of size m * n, your task is to find the sum of the minimum values in each row. So the function should return 26 because the sum of the minimums is 1 + 5 + 20 = 26.
+# 30 Given a 2D ( nested ) list ( array, vector, .. ) of size m * n, your task is to find the sum of the minimum values in each row. So the function should return 26 because the sum of the minimums is 1 + 5 + 20 = 26. 
+# 31 Take 2 strings s1 and s2 including only letters from a to z. Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
+
 
 
 
