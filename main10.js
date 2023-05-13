@@ -8,5 +8,16 @@ function sumFactorial(arr){
       sum += factorial; // add the factorial to the sum variable
     }
     return sum; // return the final sum
+  } 
+
+  // another solution 
+  function sumFactorial(arr) {
+    return arr.reduce((sum, num) => sum + factorial(num), 0);
   }
+  
+  function factorial(num) {
+    return num <= 1 ? 1 : num * factorial(num - 1);
+  }
+  
+
   

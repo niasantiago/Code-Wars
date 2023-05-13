@@ -26,3 +26,9 @@ function comp(array1, array2){
   
   return true;
 }
+
+// short solution 
+function comp(array1, array2) {
+  return Array.isArray(array1) && Array.isArray(array2) && array1.length === array2.length && array1.every(num => array2.includes(num * num));
+}
+
