@@ -1,5 +1,5 @@
 # Code-Wars 
-# 1. Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition The binary number returned should be a string. Examples:(Input1, Input2 --> Output (explanation))) 
+# 1. Implement a function that adds two numbers together and returns their sum in binary. The conversion can be done before, or after the addition The binary number returned should be a string. Examples:(Input1, Input2 --> Output (explanation))
 # 2. Given an array of ones and zeroes, convert the equivalent binary value to an integer.  
 # 3. Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. No floats or non-positive integers will be passed.
 # 4. Now you have to write a function that takes an argument and returns the square of it. 
@@ -28,6 +28,8 @@
 # 29 Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. If the array does not contain any numbers then you should return 0. 
 # 30 Given a 2D ( nested ) list ( array, vector, .. ) of size m * n, your task is to find the sum of the minimum values in each row. So the function should return 26 because the sum of the minimums is 1 + 5 + 20 = 26. 
 # 31 Take 2 strings s1 and s2 including only letters from a to z. Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
+# 32 Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+# 33 It's the academic year's end, fateful moment of your school report. The averages must be calculated. All the students come to you and entreat you to calculate their average for them. Easy ! You just need to write a script. Return the average of the given array rounded down to its nearest integer.The array will never be empty.
 
 
 
