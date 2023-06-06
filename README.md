@@ -33,7 +33,8 @@
 # 34 Upon arriving at an interview, you are presented with a solid blue cube. The cube is then dipped in red paint, coating the entire surface of the cube. The interviewer then proceeds to cut through the cube in all three dimensions a certain number of times. Your function takes as parameter the number of times the cube has been cut. You must return the number of smaller cubes created by the cuts that have at least one red face. To make it clearer, the picture below represents the cube after (from left to right) 0, 1 and 2 cuts have been made.
 # 35 Given a point in a Euclidean plane (x and y), return the quadrant the point exists in: 1, 2, 3 or 4 (integer). x and y are non-zero integers, therefore the given point never lies on the axes.
 # 36 A latin square is an n × n array filled with the integers 1 to n, each occurring once in each row and column. 
-# 36 Julie is x years older than her brother, and she is also y times as old as him. Given x and y calculate Julie's age using the function age(x, y).
+# 37 Julie is x years older than her brother, and she is also y times as old as him. Given x and y calculate Julie's age using the function age(x, y). 
+# 38 Find the minimum number of jumps to go from start to finish 
 
 
 
