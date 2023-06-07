@@ -35,6 +35,9 @@
 # 36 A latin square is an n × n array filled with the integers 1 to n, each occurring once in each row and column. 
 # 37 Julie is x years older than her brother, and she is also y times as old as him. Given x and y calculate Julie's age using the function age(x, y). 
 # 38 Find the minimum number of jumps to go from start to finish 
+# 39 Jenny has written a function that returns a greeting for a user. However, she's in love with Johnny, and would like to greet him slightly different. She added a special case to her function, but she made a mistake.
+
+
 
 
 
