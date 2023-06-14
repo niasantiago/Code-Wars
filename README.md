@@ -36,7 +36,8 @@
 # 37 Julie is x years older than her brother, and she is also y times as old as him. Given x and y calculate Julie's age using the function age(x, y). 
 # 38 Find the minimum number of jumps to go from start to finish 
 # 39 Jenny has written a function that returns a greeting for a user. However, she's in love with Johnny, and would like to greet him slightly different. She added a special case to her function, but she made a mistake.
-
+# 40 I'm new to coding and now I want to get the sum of two arrays... Actually the sum of all their elements. I'll appreciate for your help. P.S. Each array includes only integer numbers. Output is a number too. 
+# 41 Triangular numbers are so called because of the equilateral triangular shape that they occupy when laid out as dots. i.e. 
 
 
 
